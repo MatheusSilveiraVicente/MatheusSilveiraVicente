@@ -1,8 +1,8 @@
 <h1 align="center">Matheus Vicente</h1>
 
 <p align="center">
-  <b>Analista de Dados · RevOps · BI · IA Generativa</b><br>
-  <sub><i>Data Analyst · RevOps · BI · Generative AI</i></sub>
+  <b>Analista de Dados Sênior · RevOps · BI · IA Generativa</b><br>
+  <sub><i>Senior Data Analyst · RevOps · BI · Generative AI</i></sub>
 </p>
 
 <p align="center">
@@ -17,17 +17,17 @@
 
 > *"Dados sem contexto são só números. Meu trabalho é transformar os dois em decisão."*
 
-Analista de Dados na **MJV Technology & Innovation**, atuando em **RevOps** e automação de processos analíticos — do dado bruto do CRM/data lake até o dashboard que vira decisão. Antes, 3 anos na **Positivo Tecnologia**, percorrendo a trilha de estagiário a analista, construindo BI, pipelines e automação de relatórios.
+**Analista de Dados Sênior — RevOps** na **Market4u**, transformando o dado bruto do CRM/data lake em decisão: do pipeline de receita e conversão até o dashboard executivo. Antes, 3 anos na **Positivo Tecnologia**, percorrendo a trilha de estagiário a analista, construindo BI, pipelines e automação de relatórios.
 
-**Foco atual:** analytics de receita (pipeline, conversão, churn), engenharia de dados em Databricks/PySpark, dashboards executivos e IA generativa aplicada a workflows analíticos.
+**Foco atual:** analytics de receita (pipeline, conversão, churn), engenharia de dados em AWS Athena / Databricks, dashboards executivos e IA generativa aplicada a workflows analíticos.
 
 ### 🇬🇧 About
 
 > *"Data without context is just numbers. My job is turning both into decisions."*
 
-Data Analyst at **MJV Technology & Innovation**, working on **RevOps** and analytics automation — from raw CRM/data-lake data to the dashboard that drives the decision. Previously 3 years at **Positivo Tecnologia**, growing from intern to analyst, building BI, data pipelines and report automation.
+**Senior Data Analyst — RevOps** at **Market4u**, turning raw CRM/data-lake data into decisions: from the revenue pipeline to the executive dashboard. Previously 3 years at **Positivo Tecnologia**, growing from intern to analyst, building BI, data pipelines and report automation.
 
-**Currently focused on:** revenue analytics (pipeline, conversion, churn), data engineering on Databricks/PySpark, executive dashboards, and applied generative AI in analytical workflows.
+**Currently focused on:** revenue analytics (pipeline, conversion, churn), data engineering on AWS Athena / Databricks, executive dashboards, and applied generative AI in analytical workflows.
 
 ---
 
@@ -36,14 +36,14 @@ Data Analyst at **MJV Technology & Innovation**, working on **RevOps** and analy
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS Athena">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
