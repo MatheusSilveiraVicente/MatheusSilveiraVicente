@@ -13,7 +13,7 @@
 
 ---
 
-### 🇧🇷 Sobre
+### Sobre
 
 > *"Dados sem contexto são só números. Meu trabalho é transformar os dois em decisão."*
 
@@ -21,7 +21,7 @@
 
 **Foco atual:** analytics de receita (pipeline, conversão, churn), engenharia de dados em AWS Athena / Databricks, dashboards executivos e IA generativa aplicada a workflows analíticos.
 
-### 🇬🇧 About
+### About
 
 > *"Data without context is just numbers. My job is turning both into decisions."*
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -49,16 +49,19 @@
 
 ---
 
-### 📌 Destaques · Highlights
+### Destaques · Highlights
 
 - **RevOps analytics** — KPIs de pipeline, conversão e receita conectados ao CRM via SQL
 - **Data engineering** — pipelines ETL/ELT em Python + PySpark/Databricks
 - **Machine Learning** — modelos preditivos de churn (regressão logística, random forest) com feature engineering
 - **Automação · Automation** — relatórios recorrentes gerados, formatados e distribuídos automaticamente
 
-### 🎓 Formação · Education
+### Formação · Education
 
-**CST em Análise e Desenvolvimento de Sistemas** — UNINTER *(em andamento · in progress)*
+**Pós-graduação em Ciência de Dados e Inteligência Artificial** — UNINTER *(concluída · completed, 2026)*  
+**Gerente de Dados** — Escola DNC *(conclusão · completion, nov/2026)*  
+**CST em Análise e Desenvolvimento de Sistemas** — UNINTER *(em andamento · in progress)*  
+**Bacharelado em Administração** — UFPR *(2023)*
 
 ---
 
